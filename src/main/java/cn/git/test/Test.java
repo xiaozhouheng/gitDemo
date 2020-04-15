@@ -8,6 +8,7 @@ public class Test {
         System.out.println("zhouheng2分支提交");
         System.out.println("zhouheng2完成了修改功能");
         System.out.println("zhouheng完成了新增功能");
+        System.out.println("zhouheng完成了删除功能");
     }
 
 }
