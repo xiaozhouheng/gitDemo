@@ -6,6 +6,7 @@ public class Test {
         System.out.println("周衡分支提交");
         System.out.println("主分支提交");
         System.out.println("zhouheng2分支提交");
+        System.out.println("zhouheng2完成了修改功能");
     }
 
 }
